@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import "@fontsource/roboto";
+@import "@fontsource/roboto/400.css";
+@import "@fontsource/roboto/400-italic.css";
+body {
+  font-family: "Roboto";
+  margin: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+nav li {
+  width: 8vw !important;
+}
+.user-profile {
+  margin-left: 16px;
+  margin-top: 6px;
+}
+.slider-height img{
+  max-height: 318px;
+}

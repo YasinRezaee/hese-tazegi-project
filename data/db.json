@@ -1,0 +1,57 @@
+{
+  "categories": [
+    {
+      "id": "101",
+      "name": "car",
+      "news": "car news",
+      "article": "car article",
+      "image": "https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/midjourney-color-icon.png"
+    },
+    {
+      "id": "102",
+      "name": "car",
+      "news": "car news",
+      "article": "car article",
+      "image": "https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/midjourney-color-icon.png"
+    },
+    {
+      "id": "103",
+      "name": "car",
+      "news": "car news",
+      "article": "car article",
+      "image": "https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/midjourney-color-icon.png"
+    },
+    {
+      "id": "104",
+      "name": "car",
+      "news": "car news",
+      "article": "car article",
+      "image": "https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/midjourney-color-icon.png"
+    },
+    {
+      "id": "105",
+      "name": "car",
+      "news": "car news",
+      "article": "car article",
+      "image": "https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/midjourney-color-icon.png"
+    },
+    {
+      "id": "106",
+      "name": "car",
+      "news": "car news",
+      "article": "car article",
+      "image": "https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/midjourney-color-icon.png"
+    }
+  ],
+  "pages": [
+    { "id": 201, "menu": "sub menu one" },
+    { "id": 201, "menu": "sub menu one" },
+    { "id": 201, "menu": "sub menu one" },
+    { "id": 201, "menu": "sub menu one" }
+  ],
+  "slider-images": [
+    { "id": 201, "images": "" },
+    { "id": 201, "images": "" },
+    { "id": 201, "images": "" }
+  ]
+}
